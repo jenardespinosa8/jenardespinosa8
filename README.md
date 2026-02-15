@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **jenardespinosa8/jenardespinosa8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jenardespinosa8@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: nothing special
--->
